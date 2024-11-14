@@ -6,6 +6,12 @@
 - ⚡ Fun fact: I'm an artist! 🖌️
 
 ##
+Published Games:
+
+- <a href="https://drive.google.com/drive/folders/14ZTnTEypcJRgs2eQXNR6a1W23DQU29su">Rogue Seasons</a>
+- <a href="https://lewdbytesstudio.itch.io/appartment-affairs">Appartment Affairs</a>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
