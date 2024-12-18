@@ -29,7 +29,7 @@
 *This is a game I hold very dear and would love to remake in my own way now that I have more experience.*
 
 
-### Appartment Affairs (2023)
+### Appartment Affairs (Ongoing)
 **Premise:** Appartment Affairs is an hentai sandbox game where you, the protagonist, move into an apartment in a small town and try to live your life while interacting with your beautiful neighbors and other citizens of the town!
    
 **Trailer:**  
