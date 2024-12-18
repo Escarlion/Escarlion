@@ -10,12 +10,11 @@
 
 ### Rogue Seasons (2023)
 **Premise:** In a futuristic post-apocalyptic world, an agent named Rouge, who is part of a time-travel organization, must stop the monsters that emerged due to climate change.   
+
 **Trailer:**  
 <a href="https://www.youtube.com/watch?v=NXbV5D6OVkE">
   <img src="https://img.youtube.com/vi/NXbV5D6OVkE/maxresdefault.jpg" alt="Miniatura do vídeo" width="500">
 </a>
-
-[![Miniatura do vídeo](https://img.youtube.com/vi/NXbV5D6OVkE/maxresdefault.jpg)](https://www.youtube.com/watch?v=NXbV5D6OVkE)
 
 **Engine:** Unity  
 **Genre:** Rogue-like  
