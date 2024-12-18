@@ -36,7 +36,7 @@
 *W.I.P*
 
 **Engine:** Unity  
-**Genre:** Eroge 
+**Genre:** Eroge   
 **Role:** Programmer, 3D Artist, Animator, Level Designer, Scriptwriter, Music  
 
 <a href="https://lewdbytesstudio.itch.io/appartment-affairs">Download</a>
