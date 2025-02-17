@@ -22,7 +22,7 @@
 
 <a href="https://drive.google.com/drive/folders/14ZTnTEypcJRgs2eQXNR6a1W23DQU29su">Download</a>
 
-**About:** *Having been my final project (TCC), this game took about a year and a half to develop. Its scope was reduced due to some issues during production, but it was delivered.*  
+**About:** *Having been my final project, this game took about a year and a half to develop. Its scope was reduced due to some issues during production, but it was delivered.*  
 
 *It was a very interesting experience to work on it, as at the time, it was my largest project and the first where I took an active role in programming, rather than just focusing on the art. It was also my first project in Unity.*  
 
