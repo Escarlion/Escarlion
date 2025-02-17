@@ -29,23 +29,6 @@
 *This is a game I hold very dear and would love to remake in my own way now that I have more experience.*
 
 
-### Appartment Affairs (Ongoing)
-**Premise:** Appartment Affairs is an hentai sandbox game where you, the protagonist, move into an apartment in a small town and try to live your life while interacting with your beautiful neighbors and other citizens of the town!
-   
-**Trailer:**  
-*W.I.P*
-
-**Engine:** Unity  
-**Genre:** Eroge   
-**Role:** Programmer, 3D Artist, Animator, Level Designer, Scriptwriter, Music  
-
-<a href="https://lewdbytesstudio.itch.io/appartment-affairs">Download</a>
-
-**About:** *As my most recent project, it has been an interesting challenge to treat it as a product made for others to play, targeting a specific audience, while considering marketing and monetization techniques using platforms like <a href="https://lewdbytesstudio.itch.io">Itch.io</a> and <a href="https://patreon.com/AppartmentAffairs">Patreon</a>.*  
-*It has been a highly interesting and challenging project, but one that I am excited to continue.*  
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
