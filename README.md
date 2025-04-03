@@ -4,6 +4,13 @@
 - 📩 Contact me at *gustavomherrera@gmail.com*
 ##
 
+### My Public React Native Projects
+- [Revolut Clone](https://github.com/Escarlion/fintech)
+- [Gym App](https://github.com/Escarlion/igniteGym)
+- [Teams App](https://github.com/Escarlion/TeamsApp)
+
+##
+
 ### My Published Games
 For more details about my published games, check out [this page](games/games.md). 
 
