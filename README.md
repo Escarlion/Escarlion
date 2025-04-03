@@ -1,7 +1,6 @@
 ### Hey! I'm Escarlion! 👋
 
-- 🔭 I’m currently working on Backend and Game Development
-- 🌱 Learning **React Native** :)
+- 🔭 I’m currently working whit React Native and Game Development
 - 📩 Contact me at *gustavomherrera@gmail.com*
 
 ##
